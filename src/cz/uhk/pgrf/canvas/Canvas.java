@@ -19,11 +19,6 @@ import javax.swing.JPanel;
 import javax.swing.JRadioButton;
 import javax.swing.JToolBar;
 import javax.swing.SwingUtilities;
-
-import cz.uhk.pgrf.geometry.Cube;
-import cz.uhk.pgrf.geometry.GeometricObject;
-import cz.uhk.pgrf.geometry.WireFrameRenderer;
-
 import java.awt.Point;
 
 /**
